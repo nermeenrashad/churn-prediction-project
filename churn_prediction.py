@@ -1,13 +1,3 @@
-"""
-Customer Churn Prediction
-==========================
-Predicts customer churn using tabular e-commerce data and compares
-four classification models: Random Forest, a tuned Decision Tree,
-Gradient Boosting, and SVM. Includes model evaluation, feature importance,
-and SHAP-based model interpretability.
-
-Author: <your name>
-"""
 
 import os
 import warnings
